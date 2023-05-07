@@ -5,6 +5,7 @@
 - https://ojs.aaai.org/index.php/ICWSM/article/view/14443
 - https://www.liwc.app/static/documents/LIWC-22%20Manual%20-%20Development%20and%20Psychometrics.pdf
 - Discourse analysis ~ https://www.analyzemywriting.com/lexical_density.html
+- Requirements ~ https://www.jetbrains.com/help/pycharm/managing-dependencies.html#configure-requirements
 
 # PENDING
 - Sub-topic
